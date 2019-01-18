@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"basketId":"19","customerId":"second_one","creationDate":"2019-01-17T15:20:03.113+0000","totalAmount":"7,92","transactionId":"d108f936948f498a8beb555b6ce7ad73fda3dd81c84b45f08c6d9fee0d85f40e","screenId":"TG-281015134617262","itemsCount":1,"items":[{"gtin":"3017760805087","label":"Résille d'Or Praliné-Noisette","unitPrice":"0,88","quantity":9,"totalAmount":"7,92","pictureThumbnail":{"id":1124933,"base64":"","format":"Jpeg"},"itemType":1,"base64":""}],"status":"IN_PROGRESS"}
